@@ -22,4 +22,6 @@ python main.py
 
 ## Project Demo
 
-<img src="https://raw.githubusercontent.com/prabesh09/shorts-generator-v1/main/assets/demo.gif" alt="Demo" style="width: 100%;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabesh09/shorts-generator-v1/main/assets/demo.gif" alt="Demo" style="display: block; margin: auto; width: 100%;">
+</p>
