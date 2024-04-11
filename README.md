@@ -2,8 +2,7 @@
 
 Automating the creation of short videos for YouTube Shorts, Instagram Reels and TikTok.
 
-
-## About The Project 
+## About The Project
 
 This project is designed to create short videos without any manual edit.
 
@@ -22,4 +21,5 @@ python main.py
 ```
 
 ## Project Demo
-![Demo](https://raw.githubusercontent.com/prabesh09/shorts-generator-v1/main/assets/demo.gif)
+
+<img src="https://raw.githubusercontent.com/prabesh09/shorts-generator-v1/main/assets/demo.gif" alt="Demo" style="width: 100%;">
