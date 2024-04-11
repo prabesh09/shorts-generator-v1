@@ -1,0 +1,8 @@
+.venv/
+downloads/
+__pycache__
+todo
+test.py
+*.mp4
+*.mp3
+backup
