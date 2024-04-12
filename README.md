@@ -20,6 +20,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## How it works?
+
+![Screenshot](https://raw.githubusercontent.com/prabesh09/shorts-generator-v1/main/assets/screenshot01.png)
+
+Just enter any YouTube video URL that you want in background and enter any random quote, after that the final output will be generated.
+
 ## Project Demo
 
 <p align="center">
